@@ -63,4 +63,4 @@ email: "tjzxh@tongji.edu.cn"
 # - Visitors
 ---
 
-Zhang Xiaohui is a postgraduate of Traffic Engineering at Tongji University. Her research interests include driving behaviors, applying reinforcement learning in autonomous driving and other artificial intelligence applications in traffic.
+A postgraduate of Traffic Engineering at Tongji University. My research interests include driving behaviors, applying reinforcement learning in autonomous driving and other artificial intelligence applications in traffic.
