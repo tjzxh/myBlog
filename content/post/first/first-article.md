@@ -1,3 +1,13 @@
+---
+date: 2020-03-01
+title: Traffic Flow Dynamics读书笔记系列：总是觉得旁边的车开得更快？这是错觉吗？
+authors: ["admin"]
+links:
+  - icon_pack: fab
+    icon: weixin
+    name: Follow
+    url: 'https://mp.weixin.qq.com/s?__biz=MzI1MTUzMDUxMw==&mid=2247483691&idx=1&sn=3946b69168dbff47388c3a1f419b498b&chksm=e9f0dd55de875443fbb46aa4c9aee5a5e0c7ef8b931f596cb531bfc9179c4353bc670f715a01&mpshare=1&scene=1&srcid=&sharer_sharetime=1582970236000&sharer_shareid=dac10d352441ca68e744ca96ba7dc1c0&key=068cf6e98cf9479cf197eb56cf0ec6a65ac51c9e9f95feac3f1cc06ca23688a280e7606f661bfa32ea941bcdea255cd4c3e6ad25dfd8a6aee36c0c4b4d9486bbb077156f9303534bc266cbd52465cd1a&ascene=1&uin=MjUzMzA0MDcwNw%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AeZJwCT3gTjEjcZ1NjfDnuc%3D&pass_ticket=%2FbS0zO1Ubxo93nmUvqf0F50jOcyHTVeGGpLAsEhkZLuhEMfBPq51YTxzlXrWKtnn'
+---
 总是觉得旁边的车开得更快？这是错觉吗？
 =============================
 ```
